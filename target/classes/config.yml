@@ -1,0 +1,17 @@
+actionbar: "&aFoi adicionado um bloco no seu /drops"
+
+Mobs:
+  - 'PIG'
+
+Grupos:
+  1:
+    drops:
+      - 'LAPIS_BLOCK'
+    permission: "grupo.rank1"
+    preço: 300 #Cada drop
+  2:
+    drops:
+      - 'LAPIS_ORE'
+      - 'PORK' #Tem que colocar o "PIG" no Mobs:
+    permission: "grupo.rank1"
+    preço: 100 #Cada drop

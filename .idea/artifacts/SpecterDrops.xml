@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpecterDrops">
+    <output-path>$PROJECT_DIR$/../Plugins</output-path>
+    <root id="archive" name="SpecterDrops.jar">
+      <element id="module-output" name="SpecterDrops" />
+    </root>
+  </artifact>
+</component>

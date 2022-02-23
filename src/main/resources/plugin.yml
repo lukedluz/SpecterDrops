@@ -1,0 +1,7 @@
+name: SpecterDrops
+version: 1.0
+author: [Specter]
+main: com.lucas.specterdrops.Main
+commands:
+  drop:
+  drops:
